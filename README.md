@@ -1,3 +1,3 @@
 # SK BTV EPG
 
-> https://pythonkor.github.io/skbtvepg/mj_epg.xml
+> https://pythonkor.github.io/skbtvepg/epg.xml
